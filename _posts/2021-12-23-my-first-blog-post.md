@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "My first blog"
+date: 2021-12-23
 ---
 
 Welcome to my Blog.
